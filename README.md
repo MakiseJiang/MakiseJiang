@@ -1,8 +1,8 @@
 ### Hi, this is Makise
 
-🏫 18ME@UMJI, currently SDE internship @Volvo China.
-📖 Hoping to study Computer Engineering, Robotics, AI in future.
-🚀 Learning Computer Science, Software Engineering by self-teaching.
+🏫 18ME@UMJI, currently SDE internship @Volvo China. \
+📖 Hoping to study Computer Engineering, Robotics, AI in future. \
+🚀 Learning Computer Science, Software Engineering by self-teaching. \
 🤔 Striving to become self-discplined and motivated.
 
 #### Weekly Wakatime stats
