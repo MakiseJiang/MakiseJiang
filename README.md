@@ -1,4 +1,4 @@
-### Hi, this is Makise
+### Hi, this is Makise👋
 
 🏫 18ME@UMJI, currently SDE internship @Volvo China. \
 📖 Hoping to study Computer Engineering, Robotics, AI in future. \
