@@ -1,6 +1,6 @@
 ### Hi, this is Makise👋
 
-🏫 18ME@UMJI, currently on SDE internship @Volvo. \
+🏫 M.S.CompEng@NYU, 2024 Graduate expected. \
 📖 Hoping to study Computer Engineering, Robotics, AI in future. \
 🚀 Learning Computer Science, Software Engineering by self-teaching. \
 🤔 Striving to become self-discplined and motivated.
