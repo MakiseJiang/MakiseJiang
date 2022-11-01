@@ -1,9 +1,8 @@
 ### Hi, this is Makise👋
 
 🏫 M.S. CompEng@NYU, 2024 Graduate expected. \
-📖 Hoping to study Computer Engineering, Robotics, AI in future. \
-🚀 Learning Computer Science, Software Engineering by self-teaching. \
-🤔 Striving to become self-discplined and motivated.
+📖 Learning Computer Science, Software Engineering by self-teaching. \
+🚀 Seeking career on Web & Software deveopment. \
 
 #### Weekly Wakatime stats
 
