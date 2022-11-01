@@ -2,7 +2,7 @@
 
 🏫 M.S. CompEng@NYU, 2024 Graduate expected. \
 📖 Learning Computer Science, Software Engineering by self-teaching. \
-🚀 Seeking career on Web & Software deveopment. \
+🚀 Seeking career on Web & Software deveopment. 
 
 #### Weekly Wakatime stats
 
