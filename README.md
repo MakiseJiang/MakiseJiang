@@ -1,7 +1,7 @@
 ### Hi, this is Makise👋
 
 🏫 M.S. CompEng@NYU, 2024 Graduate expected. \
-📖 Learning Computer Science, Software Engineering by self-teaching. \
+📖 I'm currently: Learning CS fundamentals/Backend development/ working on projects \
 🚀 Seeking career on Web & Software deveopment. 
 
 #### Weekly Wakatime stats
