@@ -1,4 +1,4 @@
-### Hi, this is Makise👋
+### Hi, this is Viktor👋
 
 🏫 M.S. CompEng@NYU, 2024 Graduate expected. \
 📖 I'm currently: Learning CS fundamentals/Backend development, and working on projects. \
