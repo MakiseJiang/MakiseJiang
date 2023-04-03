@@ -2,7 +2,7 @@
 
 🏫 M.S. CompEng@NYU, 2024 Graduate expected. \
 📖 I'm currently: Learning CS fundamentals/Backend development, and working on projects. \
-🚀 Seeking career on Web & Software deveopment. 
+🚀 Seeking career on Self-driving Software deveopment. 
 
 #### Weekly Wakatime stats
 
