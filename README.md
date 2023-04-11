@@ -1,8 +1,8 @@
 ### Hi, this is Viktor👋
 
 🏫 M.S. CompEng@NYU, 2024 Graduate expected. \
-📖 I'm currently: Learning CS fundamentals/Backend development, and working on projects. \
-🚀 Seeking career on Self-driving Software deveopment. 
+📖 I'm currently: Learning CS fundamentals/Web Devlopement/STM32, and working on projects. \
+🚀 Seeking career on Embedded Software Engineer. 
 
 #### Weekly Wakatime stats
 
