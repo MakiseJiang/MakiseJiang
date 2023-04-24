@@ -1,4 +1,4 @@
-### Hi, this is Viktor👋
+### Hi, this is Victor👋
 
 🏫 M.S. CompEng@NYU, 2024 Graduate expected. \
 📖 I'm currently: Learning CS fundamentals/Web Devlopement/STM32, and working on projects. \
