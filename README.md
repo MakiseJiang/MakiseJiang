@@ -1,8 +1,8 @@
 ### Hi, this is Victor👋
 
 🏫 M.S. CompEng@NYU, 2024 Graduate expected. \
-📖 I'm currently: Learning CS fundamentals/Web Devlopement/STM32, and working on projects. \
-🚀 Seeking career on Embedded Software Engineer. 
+📖 I'm currently: Learning Self-driving vehicles, and working on projects. \
+🚀 Seeking career on Automotive PNC/Software Engineer. 
 
 #### Wakatime and Leetcode
 
